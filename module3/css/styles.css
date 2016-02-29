@@ -3,6 +3,8 @@
 #my-nav {
 	background-color: purple;
 	color: white;
+	border: none;
+	border-radius: 0;
 }
 
 #my-brand {
