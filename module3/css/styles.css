@@ -1,0 +1,56 @@
+/*** Header ***/
+
+#my-nav {
+	background-color: purple;
+	color: white;
+}
+
+#my-brand {
+	color: white;
+}
+
+#my-brand:hover {
+	color: black;
+}
+
+#food-menu a {
+	color: white;
+	text-align: center;
+}
+
+#food-menu ul {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+hr {
+	margin: 0;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+
+/*** end of Header ***/
+
+/*** Main Content ***/
+
+h1 {
+	margin-bottom: 40px;
+}
+
+#main-section {
+	height: 1000px;
+	background-color: yellow;
+	margin-bottom: 50px;
+}
+
+/*** end of Main Content ***/
+
+@media (max-width: 767px) {
+
+	#food-menu {
+		background-color: gray;
+	}
+
+}
